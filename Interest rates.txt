@@ -9,3 +9,5 @@ S.NO	Bank Name		Interest Rate on used car loan		EMI Loan for 10Lakhs
 5	Union Bank			10.40%				21,444 Rs
 6	Indian Bank			10.85% 				21,668 Rs
 7	ICIC Bank 			12.00%				22,244 Rs
+8 	SBI Bank 			9.90%				------
+9	HDFC Bank			8.75%				00000 Rs
